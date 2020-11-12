@@ -1,2 +1,2 @@
 # hello-world
-My first project to get familar with GitHub
+My first project to get familar with GitHub.
